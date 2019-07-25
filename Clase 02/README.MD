@@ -9,7 +9,3 @@
 - [x] Operaciones con datos (Suma)
 - [x] Guardar informacion dentro de elemntos **(All Elements of Category)**
 - [x] Filtro de elementos por Mascara Booleana 
-
-- [ ] Familias por punto
-- [ ] Muro por curva
-- [ ] Expotar información a excel
