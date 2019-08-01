@@ -5,10 +5,6 @@
 
 - [x] Familias por punto
 - [x] Muro por curva
-- [ ] Expotar información a excel
-- [ ] Exportar Excel **(Ejemplo de Clase)**
+- [x] Expotar información a excel
 
-- [ ] Crear Reporte **(All Elements In Activie View)**
-- [ ] Exportar Mobiliario
-- [ ] Importar Información de Excel
 
