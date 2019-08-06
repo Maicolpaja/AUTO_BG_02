@@ -7,5 +7,6 @@
 
 - [x] Crear Reporte **(All Elements In Activie View)**
 - [x] Exportar Mobiliario
-- [ ] Importar Información de Excel
+- [x] Importar Información de Excel
+- [x] Color override
 
