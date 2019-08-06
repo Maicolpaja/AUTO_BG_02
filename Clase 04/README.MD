@@ -3,9 +3,9 @@
 
 ## NODOS DE LA CLASE
 
-- [ ] Exportar Excel **(Ejemplo de Clase)**
+- [ ] Exportar Excel **(Ejemplo de Clase)** (Pendiente Gulliana)
 
-- [ ] Crear Reporte **(All Elements In Activie View)**
-- [ ] Exportar Mobiliario
+- [x] Crear Reporte **(All Elements In Activie View)**
+- [x] Exportar Mobiliario
 - [ ] Importar Información de Excel
 
