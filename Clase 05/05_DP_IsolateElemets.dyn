@@ -1,0 +1,64 @@
+<Workspace Version="1.3.3.4111" X="276.8" Y="-36" zoom="1" ScaleFactor="1" Name="Home" Description="" RunType="Manual" RunPeriod="1000" HasRunWithoutCrash="False">
+  <NamespaceResolutionMap />
+  <Elements>
+    <Dynamo.Graph.Nodes.CustomNodes.Function guid="f7bc2ff1-af02-4260-9b81-b040a317ee85" type="Dynamo.Graph.Nodes.CustomNodes.Function" nickname="Elements.Major.X" x="677.2" y="162" isVisible="true" isUpstreamVisible="true" lacing="Shortest" isSelectedInput="False" IsFrozen="false" isPinned="false">
+      <PortInfo index="0" default="False" />
+      <PortInfo index="1" default="False" />
+      <ID value="2c63d613-38bb-43b8-8ecc-03d398f316d6" />
+      <Name value="Elements.Major.X" />
+      <Description value="Filtra los muros con longitud mayor a &quot;X&quot;" />
+      <Inputs>
+        <Input value="double" />
+        <Input value="Walls" />
+      </Inputs>
+      <Outputs>
+        <Output value="Elements" />
+      </Outputs>
+    </Dynamo.Graph.Nodes.CustomNodes.Function>
+    <CoreNodeModels.Input.DoubleInput guid="b2a503a9-3fcc-4dcc-9b66-7dc3f7b77388" type="CoreNodeModels.Input.DoubleInput" nickname="Number" x="514.8" y="162" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="True" IsFrozen="false" isPinned="false">
+      <System.Double value="5" />
+    </CoreNodeModels.Input.DoubleInput>
+    <Dynamo.Graph.Nodes.ZeroTouch.DSFunction guid="7d626aa9-616e-4720-9398-3344fec3caf3" type="Dynamo.Graph.Nodes.ZeroTouch.DSFunction" nickname="Category.ByName" x="95.4" y="354.893333333333" isVisible="true" isUpstreamVisible="true" lacing="Shortest" isSelectedInput="False" IsFrozen="false" isPinned="false" assembly="RevitNodes.dll" function="Revit.Elements.Category.ByName@string">
+      <PortInfo index="0" default="False" />
+    </Dynamo.Graph.Nodes.ZeroTouch.DSFunction>
+    <DSRevitNodesUI.ElementsOfCategory guid="d9a6c7ad-4235-4979-a2e6-da3801add4e3" type="DSRevitNodesUI.ElementsOfCategory" nickname="All Elements of Category" x="402.6" y="354.893333333333" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="False" IsFrozen="false" isPinned="true">
+      <PortInfo index="0" default="False" />
+    </DSRevitNodesUI.ElementsOfCategory>
+    <Dynamo.Graph.Nodes.CodeBlockNodeModel guid="24bc2fc2-68de-4d65-88c9-b73dab9bf8bd" type="Dynamo.Graph.Nodes.CodeBlockNodeModel" nickname="Code Block" x="-100.6" y="359.106666666667" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="False" IsFrozen="false" isPinned="false" CodeText="&quot;Walls&quot;;" ShouldFocus="false" />
+    <Dynamo.Graph.Nodes.CustomNodes.Function guid="55c2c326-df56-40bc-b97b-8d3ec04d7cd0" type="Dynamo.Graph.Nodes.CustomNodes.Function" nickname="View.TemporarilyIsolateElement" x="1083.6" y="191.2" isVisible="true" isUpstreamVisible="true" lacing="Shortest" isSelectedInput="False" IsFrozen="false" isPinned="false">
+      <PortInfo index="0" default="False" />
+      <PortInfo index="1" default="False" />
+      <ID value="979e0abf-c87a-4ff4-9da0-82a873954d3b" />
+      <Name value="View.TemporarilyIsolateElement" />
+      <Description value="Temporarily isolates elements in the given view" />
+      <Inputs>
+        <Input value="view" />
+        <Input value="element" />
+      </Inputs>
+      <Outputs>
+        <Output value="view" />
+        <Output value="element" />
+        <Output value="success" />
+      </Outputs>
+    </Dynamo.Graph.Nodes.CustomNodes.Function>
+    <DSRevitNodesUI.Views guid="80bc3c94-fe5d-4814-bab3-7b0a7aa06ce8" type="DSRevitNodesUI.Views" nickname="Views" x="656.400000000001" y="-132.8" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="True" IsFrozen="false" isPinned="false" index="41:3D View" />
+    <CoreNodeModels.Input.StringInput guid="93e5157c-c768-4f11-883b-66a50940d856" type="CoreNodeModels.Input.StringInput" nickname="String" x="-45.9999999999999" y="500" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="True" IsFrozen="false" isPinned="false">
+      <System.String>Walls</System.String>
+      <System.String value="Walls" />
+    </CoreNodeModels.Input.StringInput>
+  </Elements>
+  <Connectors>
+    <Dynamo.Graph.Connectors.ConnectorModel start="f7bc2ff1-af02-4260-9b81-b040a317ee85" start_index="0" end="55c2c326-df56-40bc-b97b-8d3ec04d7cd0" end_index="1" portType="0" />
+    <Dynamo.Graph.Connectors.ConnectorModel start="b2a503a9-3fcc-4dcc-9b66-7dc3f7b77388" start_index="0" end="f7bc2ff1-af02-4260-9b81-b040a317ee85" end_index="0" portType="0" />
+    <Dynamo.Graph.Connectors.ConnectorModel start="7d626aa9-616e-4720-9398-3344fec3caf3" start_index="0" end="d9a6c7ad-4235-4979-a2e6-da3801add4e3" end_index="0" portType="0" />
+    <Dynamo.Graph.Connectors.ConnectorModel start="d9a6c7ad-4235-4979-a2e6-da3801add4e3" start_index="0" end="f7bc2ff1-af02-4260-9b81-b040a317ee85" end_index="1" portType="0" />
+    <Dynamo.Graph.Connectors.ConnectorModel start="80bc3c94-fe5d-4814-bab3-7b0a7aa06ce8" start_index="0" end="55c2c326-df56-40bc-b97b-8d3ec04d7cd0" end_index="0" portType="0" />
+    <Dynamo.Graph.Connectors.ConnectorModel start="93e5157c-c768-4f11-883b-66a50940d856" start_index="0" end="7d626aa9-616e-4720-9398-3344fec3caf3" end_index="0" portType="0" />
+  </Connectors>
+  <Notes />
+  <Annotations />
+  <Presets />
+  <Cameras>
+    <Camera Name="Background Preview" eyeX="-17" eyeY="24" eyeZ="50" lookX="12" lookY="-13" lookZ="-58" upX="0" upY="1" upZ="0" />
+  </Cameras>
+</Workspace>

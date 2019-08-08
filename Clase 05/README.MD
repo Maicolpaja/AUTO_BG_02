@@ -7,11 +7,8 @@
 
 - [x] Isolate Elements
 - [x] Pipe by curve
-- [ ] Nodos Personalizados
-- [ ] Dynamo Player
-- [ ] Sets Navisworks
-- [ ] Diccionario 
-
+- [x] Nodos Personalizados
+- [x] Dynamo Player
 
 ## TAREA 01 - Crear un Nodo o varios que contenga (30% de la nota final)
 
@@ -21,6 +18,6 @@
 4. Crear un elemento
 7. Colorear un elemento (o Isolate)
 8. Exportar informacion a excel
-<!-- 6. Uso de un node personalizado -->
+6. Uso de un node personalizado
 <!-- 9. Funcione para Dynamo Player -->
 
