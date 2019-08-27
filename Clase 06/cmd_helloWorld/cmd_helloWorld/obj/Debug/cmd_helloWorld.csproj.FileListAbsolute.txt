@@ -1,0 +1,5 @@
+D:\Usuarios\rrios\Escritorio\Revit_addins_Automatizacion_02\cmd_helloWorld\cmd_helloWorld\bin\Debug\cmd_helloWorld.dll
+D:\Usuarios\rrios\Escritorio\Revit_addins_Automatizacion_02\cmd_helloWorld\cmd_helloWorld\bin\Debug\cmd_helloWorld.pdb
+D:\Usuarios\rrios\Escritorio\Revit_addins_Automatizacion_02\cmd_helloWorld\cmd_helloWorld\obj\Debug\cmd_helloWorld.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\Revit_addins_Automatizacion_02\cmd_helloWorld\cmd_helloWorld\obj\Debug\cmd_helloWorld.dll
+D:\Usuarios\rrios\Escritorio\Revit_addins_Automatizacion_02\cmd_helloWorld\cmd_helloWorld\obj\Debug\cmd_helloWorld.pdb

@@ -6,6 +6,7 @@
 
 ## Addins de Clase
 
+- [ ] cmd_helloWorld
 
 
 
