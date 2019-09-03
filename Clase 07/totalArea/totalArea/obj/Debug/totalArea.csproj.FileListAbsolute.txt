@@ -1,0 +1,5 @@
+D:\Usuarios\rrios\Escritorio\Projects\totalArea\totalArea\bin\Debug\totalArea.dll
+D:\Usuarios\rrios\Escritorio\Projects\totalArea\totalArea\bin\Debug\totalArea.pdb
+D:\Usuarios\rrios\Escritorio\Projects\totalArea\totalArea\obj\Debug\totalArea.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\Projects\totalArea\totalArea\obj\Debug\totalArea.dll
+D:\Usuarios\rrios\Escritorio\Projects\totalArea\totalArea\obj\Debug\totalArea.pdb
