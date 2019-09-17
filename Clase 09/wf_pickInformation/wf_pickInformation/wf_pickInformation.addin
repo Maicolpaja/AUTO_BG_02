@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>wf_pickInformation.dll</Assembly>
+    <ClientId>FFF81335-17C7-43F4-9A87-F206320ECFA6</ClientId>
+    <FullClassName>wf_pickInformation.wf_pickInformation</FullClassName>
+    <Text>Pick Information</Text>
+    <Description>Demonstrates how to use cmd API.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>BIM Group</VendorDescription>
+  </AddIn>
+</RevitAddIns>

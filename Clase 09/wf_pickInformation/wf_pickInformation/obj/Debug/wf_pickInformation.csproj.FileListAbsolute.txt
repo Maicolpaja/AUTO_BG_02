@@ -1,0 +1,16 @@
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\bin\Debug\wf_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\bin\Debug\wf_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.frm_PickInformation.resources
+D:\Usuarios\rrios\Escritorio\02_Automatizacion\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.GenerateResource.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\bin\Debug\wf_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\bin\Debug\wf_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.frm_PickInformation.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.Properties.Resources.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.GenerateResource.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.ResolveComReference.cache
