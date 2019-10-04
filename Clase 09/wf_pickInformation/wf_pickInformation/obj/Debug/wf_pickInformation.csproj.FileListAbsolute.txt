@@ -14,3 +14,4 @@ D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_
 D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.dll
 D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.pdb
 D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csproj.ResolveComReference.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 09\wf_pickInformation\wf_pickInformation\obj\Debug\wf_pickInformation.csprojAssemblyReference.cache
