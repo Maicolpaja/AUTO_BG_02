@@ -1,0 +1,25 @@
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.Properties.Resources.resources
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.GenerateResource.cache
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.frm_selectParameters.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.Properties.Resources.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.GenerateResource.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 11\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.ResolveComReference.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\bin\Debug\app_pickInformation.pdb
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.ResolveComReference.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.frm_selectParameters.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.Properties.Resources.resources
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.GenerateResource.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.csproj.CoreCompileInputs.cache
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.dll
+D:\Usuarios\rrios\Escritorio\Privado\Automatización BIM - Grupo 02\Clase 12\app_pickInformation\app_pickInformation\obj\Debug\app_pickInformation.pdb

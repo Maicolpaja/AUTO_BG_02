@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Flesan del Perú</Name>
+    <!-- Add various controls to the Revit ribbon. -->
+    <Assembly>app_pickInformation.dll</Assembly>
+    <FullClassName>app_pickInformation.App</FullClassName>
+    <ClientId>AE4190A1-040C-4ED6-9A77-CC61F0C7E558</ClientId>
+    <VendorId>BIM Automatizacion</VendorId>
+    <VendorDescription>Renzo Rios </VendorDescription>
+  </AddIn>
+</RevitAddIns>
